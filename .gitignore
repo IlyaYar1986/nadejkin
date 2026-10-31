@@ -1,0 +1,8 @@
+# Keep the repository limited to the deployable site.
+/*
+!/site/
+!/.gitignore
+
+# Local documentation and operating-system files are not deployment assets.
+/site/README.md
+.DS_Store
